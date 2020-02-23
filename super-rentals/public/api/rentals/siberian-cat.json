@@ -1,0 +1,15 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "siberian-cat",
+    "attributes": {
+      "title": "Siberian Cat",
+      "owner": "Violet Beauregarde",
+      "city": "Las Vegas",
+      "category": "Young",
+      "age": 3,
+      "image": "https://p1.pxfuel.com/preview/759/882/484/sphynx-cat-sphinx-feline-hairless-mammal.jpg",
+      "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+    }
+  }
+}

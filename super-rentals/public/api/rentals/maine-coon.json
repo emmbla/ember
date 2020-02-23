@@ -1,0 +1,15 @@
+{
+  "data": {
+    "type": "rentals",
+    "id": "urban-living",
+    "attributes": {
+      "title": "Maine Coon",
+      "owner": "Mike Teavee",
+      "city": "Seattle",
+      "category": "Young",
+      "age": 1,
+      "image": "https://cdn.pixabay.com/photo/2018/06/25/16/20/maine-coon-3497280_960_720.jpg",
+      "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
+    }
+  }
+}

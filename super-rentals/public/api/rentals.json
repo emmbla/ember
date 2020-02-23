@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "type": "rentals",
+      "id": "grand-old-mansion",
+      "attributes": {
+        "title": "Siberian Cat",
+        "owner": "Veruca Salt",
+        "city": "San Francisco",
+        "category": "Elder",
+        "age": 15,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Murmur%27s_Siberian_Cat_Ermes.JPG",
+        "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "maine-coon",
+      "attributes": {
+        "title": "Maine Coon",
+        "owner": "Mike Teavee",
+        "city": "Seattle",
+        "category": "Young",
+        "age": 1,
+        "image": "https://cdn.pixabay.com/photo/2018/06/25/16/20/maine-coon-3497280_960_720.jpg",
+        "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
+      }
+    },
+    {
+      "type": "rentals",
+      "id": "downtown-charm",
+      "attributes": {
+        "title": "Sphynx",
+        "owner": "Violet Beauregarde",
+        "city": "Las Vegas",
+        "category": "Young",
+        "age": 3,
+        "image": "https://p1.pxfuel.com/preview/759/882/484/sphynx-cat-sphinx-feline-hairless-mammal.jpg",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
+    }
+  ]
+}

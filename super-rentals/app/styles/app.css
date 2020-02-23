@@ -37,7 +37,7 @@ body {
 }
 
 a {
-  color: #016aba;
+  color: purple;
   text-decoration: none;
 }
 
@@ -58,7 +58,7 @@ p {
   padding: 10px 30px 10px;
   text-decoration: none;
   color: #fff;
-  background: #016aba;
+  background: pink;
   border-radius: 5px;
   border: none;
   font-size: 20px;
@@ -88,7 +88,7 @@ p {
   height: 4em;
   background-color: #677ae4;
   background-color: #05526a;
-  background-color: #e46855;
+  background-color: pink;
 }
 
 .menu h1 {
@@ -278,7 +278,7 @@ p {
   margin: -20px;
   padding: 20px;
   border-radius: 5px;
-  background: #016aba;
+  background: purple;
   opacity: 0;
   transition: opacity 0.25s ease-in-out;
 }
@@ -302,7 +302,7 @@ p {
   margin-top: 5px;
   margin-bottom: -15px;
   text-align: center;
-  color: #016aba;
+  color: purple;
 
   /* This is needed to fix a safari clipping issue */
   position: relative;
